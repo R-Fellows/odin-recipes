@@ -1,0 +1,47 @@
+* {
+  background-color: bisque;
+}
+
+.recipeCards img {
+  width: 400px;
+  height: 300px;
+}
+
+.recipe .thumbnail {
+  padding-top: 20;
+  width: 300px;
+  height: 200px;
+}
+
+.recipe {
+  padding: auto;
+  text-align: center;
+}
+
+#indexCards {
+  display: flex;
+  flex-direction: column;
+  padding: 10px;
+  padding-top: 30px;
+  align-items: center;
+  background-color: blanchedalmond;
+  margin: 30px;
+}
+
+.recipe a {
+  text-decoration: none;
+  color: brown;
+  font-size: 1.5rem;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+#homeTitle {
+  text-align: center;
+  color: black;
+  font-size: 1.75rem;
+  text-decoration: underline;
+}
